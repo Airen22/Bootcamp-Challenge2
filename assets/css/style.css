@@ -94,12 +94,15 @@ header h1.page-title {
 }
 
 .bannertext {
-  display: block;
+  display: inline;
   padding: .5rem;
   background-color: var(--bright);
-
 }
 
+.bannerimage {
+  width: 100%;
+  height: 20rem;
+}
 main {
   width: 96%;
   margin: 2rem auto;
@@ -107,15 +110,35 @@ main {
 
 .container {
   display: flex;
-  width: 100%;
+  width: 150px
+  margin-left: 4rem;
+  padding-bottom: 30px;
 }
 
 .subtitle {
+  width: max-content;
   text-align: right;
-  border-right: 5px solid var(--blue);
-  margin-left: 5%;
-  margin-right: 80%;
+  margin-left: 5rem;
+  justify-content: right;
   padding-right: 15px;
+  padding-bottom: 15px;
+  width: 150px;
+}
+
+.article {
+  padding-left: 15px;
+  border-left: 5px solid var(--blue);
+
+}
+#largeimage {
+  width: 100%;
+}
+width:
+
+#smallimage {
+  display: inline-block;
+  width: 50%;
+  height: 10%;
 }
 /* media query for larger screens */
 @media screen and (min-width: 992px) {
