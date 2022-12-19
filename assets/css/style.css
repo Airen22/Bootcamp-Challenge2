@@ -110,7 +110,6 @@ main {
 
 .container {
   display: flex;
-  width: 150px
   margin-left: 4rem;
   padding-bottom: 30px;
 }
@@ -133,7 +132,7 @@ main {
 #largeimage {
   width: 100%;
 }
-width:
+
 
 #smallimage {
   display: inline-block;
