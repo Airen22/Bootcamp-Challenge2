@@ -11,9 +11,12 @@ N/A
 ## Usage
 
 Go to the following URL:
-https://airen22.github.io/Bootcamp-Challenge2/
+https://airen22.github.io/Bootcamp-Challenge2-Portfolio/
 
-The following image shows a screenshot of the website: <img src="assets\images\screenshot.png">
+
+The following image shows a screenshot of the website: 
+![](./assets/images/image1.png)
+
 
 ## Credits
 
